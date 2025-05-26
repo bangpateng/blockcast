@@ -23,7 +23,7 @@ wget https://raw.githubusercontent.com/bangpateng/blockcast/refs/heads/main/bloc
 ```
 - Pilih 1 (Install)
 - Click Link Yang Dapat Dari VPS
-- Pastikan Data Sama
+- Pastikan Data Challange ID, Hardware ID sama
 - Register Node
 - Done
 
