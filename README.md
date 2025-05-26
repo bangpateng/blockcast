@@ -18,6 +18,10 @@
 
 ### Install Script on VPS
 
+- Buy VPS Jika Belum Punya : [https://www.databasemart.com/](https://www.databasemart.com/?aff_id=8d846344eed94bd4ab61b0acda370477)
+- Pembayaran Bisa Pakai Credit Card Bank Jago
+- Done
+
 ```
 wget https://raw.githubusercontent.com/bangpateng/blockcast/refs/heads/main/blockcast.sh && chmod +x blockcast.sh && ./blockcast.sh
 ```
