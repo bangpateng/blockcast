@@ -1,5 +1,12 @@
 # Blockcast Node Operator Guide
 
+## Supports Ubuntu Linux + Docker-based systems.
+🔧 Requirements [ Minimum 2 CPU cores and 4GB RAM ]
+
+- Docker & Docker Compose installed
+- Basic terminal knowledge
+- Open ports (if behind NAT)
+
 ### Register
 
 - Create Account : [https://app.blockcast.network/](https://app.blockcast.network/?referral-code=A5Eukl)
